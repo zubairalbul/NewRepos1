@@ -28,7 +28,7 @@ namespace UniversityTask
                 { 
                     mydict1.Add(CourseCode.ToUpper(), null); 
                     SavingDictionary();
-                    Console.WriteLine("The course has been added successfully");
+                    Console.WriteLine("The course has been added successfully.");
                     break;
                 }
                 
